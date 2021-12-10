@@ -8,13 +8,6 @@ import br.com.lojinha.pojo.ProdutoNacional;
 import java.util.ArrayList;
 import java.util.List;
 
-//adicionando um texto de alteração
-
-
-
-//Texto adicionado para a branco masseta que foi criada
-//modificar-api-alvo-dos-testes
-
 public class LojinhaApp {
     public static void main(String[] args) {
         Produto meuProduto = new Produto("PS4","Sony",Tamanho.MEDIO);  //instanciando um novo produto
